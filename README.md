@@ -1,2 +1,88 @@
 # 9D
-Web untuk mendata kelas 9D berjumlah 36 siswa 
+‎Buatkan saya aplikasi untuk mendata siswa kelas 9 D berjumlah 36 siswa bertemakan laut
+‎
+‎NAMA siswa
+‎
+‎1. Agung Ramaindra Syahputra
+‎
+‎2. Ainun Tiyas martiningsih
+‎
+‎3. ⁠Alessia Alzena Riangga
+‎
+‎4. ⁠Almaira Faiqha
+‎
+‎5. ⁠Alya Faliha
+‎
+‎6. ⁠Amirah Julveni Maulana
+‎
+‎7. ⁠Andi Aqil
+‎
+‎8. Aurora Felicia Angelie
+‎
+‎9. ⁠Bilqis Melani
+‎
+‎10. Chaya muja syatira
+‎
+‎11. Fadhil oktavian nabil
+‎
+‎12. fahmi firjatullah
+‎
+‎13. faiz Alfarizi
+‎
+‎14. farhan umaydillah radjiansyah
+‎
+‎15. fathir pradipta alfarizi
+‎
+‎16. fazril nizart
+‎
+‎17. januari
+‎
+‎18. jihaan kaltsum khairunnisa
+‎
+‎19. juan edra abiya
+‎
+‎20. Khanza Rista Bhanuwati
+‎
+‎21. Kristiana Berta
+‎
+‎22. ⁠Marselino Prasetyo wijaya
+‎
+‎23. M. Fadil Putra pratama
+‎
+‎24. ⁠M. Kafka adri Al-Maliq
+‎
+‎25. ⁠M. Luthfi faturrahman
+‎
+‎26. ⁠Natalis Fedora Purba
+‎
+‎27. ⁠Rafif Rakha Arkana
+‎
+‎28. Rayhan Qolbu
+‎
+‎29. ⁠ ⁠Runika Alzariva
+‎
+‎30. ⁠Suci Pratiwi
+‎
+‎31. ⁠Syafa Damia Sakhi
+‎
+‎32. ⁠Syech Faris maulana
+‎
+‎33. ⁠Tegar Tri Pambudi
+‎
+‎34. ⁠Tersa Usela
+‎
+‎35. ⁠Tiara Husna Humairah
+‎
+‎36. ⁠Zhafira Mayarista
+‎
+‎Fitur fitur
+‎
+‎Dasboard menampilkan ringkasan seperti berapa siswa yang hadir sakit izin alpa dan jumlah uang kas dan kata kata penyemangat dan ada tombol untuk ke halaman dasboard absen jurnal dan kas
+‎
+‎Absen berisi nama siswa dan ada pilihan centang yang bertuliskan hadir sakit izin alpa
+‎
+‎Jurnal berisi kolom yang harus di isi
+‎
+‎Kas berisi nama siswa kas di bagi manjadi 2 yaitu kas harian dan kas bulanan kas bulanan berisi kotak yang bisa kita tuliskan jumlah kas dan kas harian berisi kotak centang untuk di centang tiap hari
+‎
+‎Contoh kas ada siswa membayar 5.000 bendahara isi di kas bulanan 5.000 di kas bulanan tercantum 5.000 dan di kas harian akan tercentang otomatis 5 hari
